@@ -85,7 +85,7 @@ import villain from './villain.jpg'
 
 
 // importing songs
-import agarTumMilJao from './agarTumMilJao.mp3'
+import agarTumMilJao from './agarTumMilJao.MP3'
 import akhiyanTeriMereDilPeWarKare from './akhiyanTeriMereDilPeWarKare.mp3'
 import aksarIsDuniyaMe from './aksarIsDuniyaMe.mp3'
 import bolDoNaZara from './bolDoNaZara.mp3'
